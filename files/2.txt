@@ -1,0 +1,204 @@
+BOOKNAME,AUTHORMANE,COUNT
+The Hunger Games,Suzanne Collins,272
+Harry Potter and the Philosophers Stone,J.K. Rowling Mary GrandPr,491
+Twilight,Stephenie Meyer,226
+To Kill a Mockingbird,Harper Lee,487
+The Great Gatsby,F. Scott Fitzgerald,234
+The Fault in Our Stars,John Green,226
+The Hobbit or There and Back Again,J.R.R. Tolkien,969
+The Catcher in the Rye,J.D. Salinger,360
+Angels & Demons ,Dan Brown,311
+Pride and Prejudice,Jane Austen,3455
+The Kite Runner ,Khaled Hosseini,283
+Divergent,Veronica Roth,210
+Nineteen Eighty-Four,George Orwell Erich Fromm Cell ster,995
+Animal Farm: A Fairy Story,George Orwell,896
+Het Achterhuis: Dagboekbrieven 14 juni 1942 - 1 augustus 1944,Anne Frank Eleanor Roosevelt B.M. Mooyaart-Doubleday,710
+Mn som hatar kvinnor,Stieg Larsson Reg Keeland,274
+Catching Fire,Suzanne Collins,201
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling Mary GrandPr Rufus Beck,376
+ The Fellowship of the Ring,J.R.R. Tolkien,566
+Mockingjay,Suzanne Collins,239
+Harry Potter and the Order of the Phoenix,J.K. Rowling Mary GrandPr,307
+The Lovely Bones,Alice Sebold,183
+Harry Potter and the Chamber of Secrets,J.K. Rowling Mary GrandPr,398
+Harry Potter and the Goblet of Fire,J.K. Rowling Mary GrandPr,332
+Harry Potter and the Deathly Hallows,J.K. Rowling Mary GrandPr,263
+The Da Vinci Code,Dan Brown,350
+Harry Potter and the Half-Blood Prince,J.K. Rowling Mary GrandPr,275
+Lord of the Flies ,William Golding,458
+An Excellent conceited Tragedie of Romeo and Juliet,William Shakespeare Robert           Jackson,1937
+Gone Girl,Gillian Flynn,196
+The Help,Kathryn Stockett,183
+Of Mice and Men ,John Steinbeck,373
+Memoirs of a Geisha,Arthur Golden,220
+Fifty Shades of Grey,E.L. James,169
+O Alquimista,Paulo Coelho Alan R. Clarke,458
+The Giver,Lois Lowry,192
+The Lion the Witch and the Wardrobe,C.S. Lewis,474
+The Time Travelers Wife,Audrey Niffenegger,167
+A Game of Thrones,George R.R. Martin,101
+Eat pray love: one womans search for everything across Italy India and Indonesia,Elizabeth Gilbert,185
+The Lightning Thief,Rick Riordan,159
+Little Women,Louisa May Alcott,1707
+Jane Eyre,Charlotte Bront Michael Mason,2568
+The Notebook,Nicholas Sparks,190
+Life of Pi,Yann Martel,264
+Water for Elephants,Sara Gruen,128
+The Book Thief,Markus Zusak,251
+Fahrenheit 451,Ray Bradbury,507
+New Moon (Twilight #2),Stephenie Meyer,194
+Where the Sidewalk Ends: The Poems and Drawings of Shel Silverstein,Shel Silverstein,45
+City of Bones,Cassandra Clare,178
+Eclipse,Stephenie Meyer,185
+Eragon,Christopher Paolini,217
+The Hitchhikers Guide to the Galaxy,Douglas Adams,257
+Brave New World,Aldous Huxley,515
+Breaking Dawn,Stephenie Meyer,183
+The Secret Life of Bees,Sue Monk Kidd,125
+The Adventures of Huckleberry Finn,Mark Twain John Seelye Guy Cardwell,2277
+Charlottes Web,E.B. White Garth Williams Rosemary Wells,180
+The Curious Incident of the Dog in the Night-Time,Mark Haddon,183
+The Girl on the Train,Paula Hawkins,14
+Northern Lights,Philip Pullman,287
+Wuthering Heights,Emily Bront Richard J. Dunn,2498
+My Sisters Keeper,Jodi Picoult,125
+Slaughterhouse-Five or The Childrens Crusade: A Duty-Dance with Death ,Kurt Vonnegut Jr.,241
+Gone with the Wind,Margaret Mitchell,409
+A Thousand Splendid Suns,Khaled Hosseini,197
+The Perks of Being a Wallflower,Stephen Chbosky,128
+Insurgent,Veronica Roth,164
+Enders Game,Orson Scott Card,224
+Frankenstein; or The Modern Prometheus,Mary Wollstonecraft Shelley Percy Bysshe Shelley Maurice Hindle,2618
+The Shining,Stephen King,289
+The Host,Stephenie Meyer,161
+Looking for Alaska,John Green,187
+Sense and Sensibility,Jane Austen Tony Tanner Ros Ballaster,1969
+Holes,Louis Sachar Louis Sachar,138
+The Devil Wears Prada,Lauren Weisberger,129
+?ë?ååî?à,Homer Robert Fagles E.V. Rieu Frdric Mugler Bernard Knox,1703
+Le Petit Prince,Antoine de Saint-Exupry Richard Howard Dom Marcos Barbosa Melina Karakosta,1708
+The Glass Castle,Jeannette Walls,92
+Into the Wild,Jon Krakauer,108
+A Tale of Two Cities,Charles Dickens Richard Maxwell Hablot Knight Browne,525
+Jurassic Park,Michael Crichton,176
+The Giving Tree,Shel Silverstein,81
+A Time to Kill,John Grisham,158
+Un di Velt Hot Geshvign,Elie Wiesel Marion Wiesel,109
+Paper Towns,John Green,178
+The Princess Bride,William Goldman,129
+The Outsiders,S.E. Hinton,156
+The Maze Runner,James Dashner,147
+Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,Steven D. Levitt Stephen J. Dubner,124
+The Secret Garden,Frances Hodgson Burnett,1350
+Cien a€os de soledad,Gabriel Garc¡a M rquez Gregory Rabassa,555
+The Picture of Dorian Gray,Oscar Wilde Jeffrey Eugenides,2303
+Fifty Shades Freed,E.L. James,133
+Dracula,Bram Stoker Nina Auerbach David J. Skal,2207
+Flickan som lekte med elden,Stieg Larsson Reg Keeland,209
+Fifty Shades Darker,E.L. James,147
+The Poisonwood Bible,Barbara Kingsolver,39
+Me Talk Pretty One Day,David Sedaris,59
+Where the Wild Things Are,Maurice Sendak,110
+Le Comte de Monte-Cristo,Alexandre Dumas Robin Buss,1310
+Allegiant,Veronica Roth,153
+Bossypants,Tina Fey,48
+A Walk to Remember,Nicholas Sparks,131
+Confessions of a Shopaholic,Sophie Kinsella,144
+Les Misrables,Victor Hugo Lee Fahnestock Norman MacAfee,1319
+A Clash of Kings,George R.R. Martin,202
+The Memory Keepers Daughter,Kim Edwards,98
+Me Before You,Jojo Moyes,168
+Catch-22,Joseph Heller,251
+Tuesdays with Morrie,Mitch Albom Saulius Dagys,172
+Middlesex,Jeffrey Eugenides,125
+The Adventures of Tom Sawyer,Mark Twain Guy Cardwell John Seelye,2448
+A Wrinkle in Time,Madeleine LEngle,165
+The Joy Luck Club,Amy Tan,126
+The Handmaids Tale,Margaret Atwood,236
+The Sisterhood of the Traveling Pants,Ann Brashares,93
+Lolita,Vladimir Nabokov Craig Raine,370
+Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire Douglas Smith,80
+The Firm,John Grisham,11
+Room,Emma Donoghue,151
+The Tragicall Historie of Hamlet Prince of Denmark,William Shakespeare Richard Andrews Rex Gibson,1929
+Dune,Frank Herbert,241
+The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,100
+Steve Jobs,Walter Isaacson,190
+One Flew Over the Cuckoos Nest,Ken Kesey,275
+The Old Man and the Sea,Ernest Hemingway,666
+The Grapes of Wrath,John Steinbeck,381
+The Five People You Meet in Heaven,Mitch Albom,123
+Anne of Green Gables,L.M. Montgomery,1314
+City of Glass,Cassandra Clare,122
+A Storm of Swords,George R.R. Martin,175
+Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells,75
+Outlander,Diana Gabaldon,189
+The Scarlet Letter,Nathaniel Hawthorne Thomas E. Connolly Nina Baym,1579
+Miss Peregrine?s Home for Peculiar Children,Ransom Riggs,155
+Luftslottet som sprngdes,Stieg Larsson Reg Keeland,193
+The Martian,Andy Weir,148
+The Pillars of the Earth,Ken Follett,255
+Unbroken: A World War II Story of Survival Resilience and Redemption,Laura Hillenbrand,16
+Deception Point,Dan Brown,180
+The Goldfinch,Donna Tartt,108
+Thirteen Reasons Why,Jay Asher,150
+Girl with a Pearl Earring,Tracy Chevalier,169
+If I Stay,Gayle Forman,130
+The Red Tent,Anita Diamant,80
+The Sea of Monsters,Rick Riordan,121
+Dear John,Nicholas Sparks,111
+City of Ashes,Cassandra Clare,125
+The Tragedy of Macbeth,William Shakespeare,1732
+The Two Towers,J.R.R. Tolkien,453
+Something Borrowed,Emily Giffin,65
+Green Eggs and Ham,Dr. Seuss ??? ????,72
+Charlie and the Chocolate Factory,Roald Dahl Quentin Blake,338
+The Battle of the Labyrinth,Rick Riordan,92
+Great Expectations,Charles Dickens,1725
+The Return of the King,J.R.R. Tolkien,470
+L?tranger,Albert Camus Matthew    Ward,675
+The Lost Hero,Rick Riordan,72
+Eleanor & Park,Rainbow Rowell,103
+A Feast for Crows,George R.R. Martin,176
+Matched,Ally Condie,84
+American Gods,Neil Gaiman,196
+The Stand,Stephen King Bernie Wrightson,195
+The Last Song,Nicholas Sparks,95
+Digital Fortress,Dan Brown,185
+Emma,Jane Austen Fiona Stafford,1710
+???? ????????,Leo Tolstoy Louise Maude Leo Tolstoj Aylmer Maude,1492
+A Clockwork Orange,Anthony Burgess,283
+The Shack: Where Tragedy Confronts Eternity,William Paul Young,134
+The Last Olympian,Rick Riordan,87
+It,Stephen King,7
+???????????? ? ?????????,Fyodor Dostoyevsky David McDuff,1714
+The Bell Jar,Sylvia Plath,246
+Angelas Ashes: A Memoir,Frank McCourt,184
+Siddhartha,Hermann Hesse Hilda Rosner,972
+In Cold Blood,Truman Capote,223
+Beautiful Creatures,Kami Garcia Margaret Stohl,119
+Clockwork Angel,Cassandra Clare,103
+Matilda,Roald Dahl Quentin Blake,242
+The Night Circus,Erin Morgenstern,119
+The Other Boleyn Girl,Philippa Gregory,111
+Uglies,Scott Westerfeld,98
+A Dance with Dragons,George R.R. Martin,115
+The Lord of the Rings,J.R.R. Tolkien,380
+Wild: From Lost to Found on the Pacific Crest Trail ,Cheryl Strayed,101
+Watchmen,Alan Moore Dave Gibbons John Higgins,90
+The Name of the Wind,Patrick Rothfuss,123
+Outliers: The Story of Success,Malcolm Gladwell,120
+Moby Dick; or The Whale,Herman Melville Andrew Delbanco Tom Quirk,1823
+The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer Annie Barrows,116
+Fight Club,Chuck Palahniuk,162
+Dead Until Dark,Charlaine Harris,109
+The Color Purple,Alice Walker,155
+Marley & Me: Life and Love with the Worlds Worst Dog,John Grogan,119
+Ten Little Niggers,Agatha Christie,474
+The Lost Symbol,Dan Brown,208
+Hush Hush,Becca Fitzpatrick,91
+Beautiful Disaster,Jamie McGuire,85
+A Christmas Carol,Charles Dickens,2380
+Interview with the Vampire,Anne Rice,189
+The Selection,Kiera Cass,93
